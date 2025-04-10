@@ -34,9 +34,10 @@ sistema-hospitalar/
 │   │   │   │   └── enums/       # Enumerações
 │   │   │   ├── repository/      # Repositórios de dados
 │   │   │   ├── service/         # Serviços com lógica de negócios
-│   │   │   └── config/          # Configurações
+│   │   │   └── util/            # Utilitários
 │   │   └── resources/
-│   │       └── application.properties  # Configurações do aplicativo
+│   │       ├── application.properties  # Configurações do aplicativo
+│   │       └── import.sql               # Script SQL para dados iniciais
 │   └── test/                     # Testes unitários e de integração
 ```
 
