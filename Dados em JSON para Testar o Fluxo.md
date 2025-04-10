@@ -196,4 +196,4 @@ Use o endpoint `/consultas/1/cancelar` para cancelar a consulta futura.
 9. Registrar resultados dos exames (PUT /exames/{id}/resultado)
 10. (Opcional) Cancelar a consulta 1 (PUT /consultas/1/cancelar)
 
-Depois de cada etapa, você pode usar as requisições GET correspondentes para verificar se os dados foram salvos corretamente.
+Depois de cada etapa, você pode usar as requisições GET correspondentes para verificar se os dados foram salvos corretamente
